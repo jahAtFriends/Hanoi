@@ -17,6 +17,5 @@ public class Hanoi {
     
     int n = Integer.parseInt(args[0]);
     solveTower(n);
-  }
-  
+  } 
 }
